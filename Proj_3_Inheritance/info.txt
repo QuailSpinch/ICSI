@@ -1,0 +1,4 @@
+Project three of the class in Java.
+The objective of the class was to use inheritence, with at least four instances of inheritence, for any type of application.
+I chose to write an inventory system for a library.
+A sample data file is included for reading into the program with the specific format for the program to read in.
