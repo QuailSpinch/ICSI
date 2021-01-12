@@ -1,0 +1,3 @@
+This project uses java to take data and build it into a btree.
+The goal was to show inheritnce between types of nodes and be able to write a recursive search for the btree structure.
+A test file is included.
