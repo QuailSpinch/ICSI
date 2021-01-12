@@ -1,0 +1,62 @@
+book
+Faust, Part 1
+1808
+Tragedy
+Johann Wolfgang von Goethe
+OUP Oxford
+240
+no
+book
+Faust, Part 2
+1832
+Tragedy
+Johann Wolfgang von Goethe
+Penguin Books Limited
+288
+yes
+film
+Paprika
+2006
+Sciience fiction Psychological thriller
+Satoshi Kon
+Madhouse
+90
+DVD
+yes
+cd
+Unhappy Refrain
+2011
+Rock Techno
+WOWAKA
+BALLOOM
+21
+2
+yes
+film
+Lord of the Rings: Fellowship of the Rings
+2001
+Fantasy
+Peter Jackson
+New Line Cinema
+228
+VHS
+no
+vinyl
+In the Aeroplane over the Sea
+1998
+Indie rock
+Neutral Milk Hotel
+Merge Records
+11
+12
+33
+yes
+cd
+盗作
+2020
+Japanese rock
+ヨルシカ
+UNIVERSAL MUSIC
+14
+2
+yes
